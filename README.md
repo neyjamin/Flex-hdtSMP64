@@ -1,4 +1,7 @@
-# DON'T USE! I'm using this as a personal learning project. If I learn enough and feel like it is working properly, I'll update this.
+# DON'T USE! I'm using this as a personal learning project. If I learn enough and feel like it's working properly, I will update this.
+
+Rest of description below copied from original.
+
 
 # hdtSMP with CUDA for Skyrim SE/AE/VR
 

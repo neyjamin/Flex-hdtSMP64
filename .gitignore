@@ -57,3 +57,5 @@ sksevr.sln
 *.vcxproj
 *.vcxproj
 *.filters
+/Detours
+/bullet3
