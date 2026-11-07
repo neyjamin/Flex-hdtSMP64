@@ -195,7 +195,7 @@ then get the HDT-SMP source:
 ```
 cd D:\Dev-noAVX\skse64_2_00_19\src\skse64
 git init
-git remote add origin https://github/com/Karonar1/hdtSMP64.git
+git remote add origin https://github.com/Karonar1/hdtSMP64.git
 git fetch
 git checkout master
 ```
