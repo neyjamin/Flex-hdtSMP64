@@ -1,3 +1,5 @@
+# DON'T USE! I'm using this as a personal learning project. If I learn enough and feel like it is working properly, I'll update this.
+
 # hdtSMP with CUDA for Skyrim SE/AE/VR
 
 Fork of [https://github.com/Karonar1/hdtSMP64] by Karonar1, of fork of [version](https://github.com/aers/hdtSMP64) by aers, from
