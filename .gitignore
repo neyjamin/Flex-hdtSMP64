@@ -59,3 +59,4 @@ sksevr.sln
 *.filters
 /Detours
 /bullet3
+/skse64_2_02_08/src/common
